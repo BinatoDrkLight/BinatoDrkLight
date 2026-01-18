@@ -5,10 +5,10 @@
 Hi! Welcome. Myself Binesh Adhikari, you can call me BinatoDrkLight aka Binato. This is my github profile and I upload projects and academic contents over here. I have learnt lots of stuffs throught out my journey. I have explored through  a lot of different programming languages but I have chosen to follow MERN stack currently. While I'm not at technology, I like doing extra activities such as playing chess, guitar, making origami, drawing, gaming, watching anime.
 
 # Portfolio
-And for my portfolio you can visit: [binatodrklight.com.np](https://bineshadhikari.com.np)
+Portfolio : [binatodrklight.com.np](https://bineshadhikari.com.np)
 
 # Tech Stack
-<p style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+<p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" />
@@ -41,12 +41,12 @@ Trackie is a simple bus tracking system built using PHP, Leaflet.js, JavaScript.
 Repository: binatodrklight/ProjectIBCA4thSem | Live Demo: https://trackie.is-great.net
 
 # Contacts
- <a href="https://linkedin.com/in/bineshadhikari-it" style="text-decoration:none; color:inherit;">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=40" width="40" style="vertical-align:middle;" /> linkedin/in/bineshadhikari-it
+  <a href="https://linkedin.com/in/bineshadhikari-it" style="text-decoration:none; color:inherit;">
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=40" width="40" align="center" /> linkedin/in/bineshadhikari-it
   </a>
 
-<a href="mailto:youremail@gmail.com" style="text-decoration:none; color:inherit;">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" style="vertical-align:middle;" /> binesh2adhikari@gmail.com
+  <a href="mailto:youremail@gmail.com" style="text-decoration:none; color:inherit;">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" align="center" /> binesh2adhikari@gmail.com
   </a>
 
 
@@ -56,7 +56,7 @@ Repository: binatodrklight/ProjectIBCA4thSem | Live Demo: https://trackie.is-gre
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BinatoDrkLight&layout=compact&theme=dark)
 
-### <i>- In case I don’t see ya, good afternoon, good evening, and good night.</i>
+#### <i>- In case I don’t see ya, good afternoon, good evening, and good night.</i>
 
 
 
