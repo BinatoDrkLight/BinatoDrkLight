@@ -43,7 +43,7 @@ Repository: binatodrklight/ProjectIBCA4thSem | Live Demo: https://trackie.is-gre
 # Contacts
   <a href="https://linkedin.com/in/bineshadhikari-it" style="text-decoration:none; color:inherit;">
     <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=40" width="40" align="center" /> linkedin/in/bineshadhikari-it
-  </a>  
+  </a><br>
   
   <a href="mailto:youremail@gmail.com" style="text-decoration:none; color:inherit;">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" align="center" /> binesh2adhikari@gmail.com
