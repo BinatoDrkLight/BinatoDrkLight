@@ -5,7 +5,7 @@
 Hi! Welcome. Myself Binesh Adhikari, you can call me BinatoDrkLight aka Binato. This is my github profile and I upload projects and academic contents over here. I have learnt lots of stuffs throught out my journey. I have explored through  a lot of different programming languages but I have chosen to follow MERN stack currently. While I'm not at technology, I like doing extra activities such as playing chess, guitar, making origami, drawing, gaming, watching anime.
 
 # Portfolio
-Portfolio : [binatodrklight.com.np](https://bineshadhikari.com.np)
+Portfolio : [bineshadhikari.com.np](https://bineshadhikari.com.np)
 
 # Tech Stack
 <p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
